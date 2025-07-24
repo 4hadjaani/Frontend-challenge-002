@@ -18,6 +18,7 @@ img {
                    display: flex-block;}
         
         body{  background-color: #1f1f1f ; 
+	     color: white;
                  justify-content: center;
                
               align-item: center;}
