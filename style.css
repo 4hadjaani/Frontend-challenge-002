@@ -1,0 +1,28 @@
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+
+    .photo{ text-align : center ;}
+img {
+	       border-radius : 50%;
+	      item-align : center ;
+	    }
+	.name { color: black ; 
+                 }
+	  button {   text-align: center;
+	                width :100%;        
+                   margin : 5px;    
+                    height : 50px; }
+               
+        .objets {text-align: center;
+                   display: flex-block;}
+        
+        body{ 
+                 justify-content: center;
+               
+              align-item: center;}
+         
+         .name{ color: #b1cb66 ;  }
+         
+         .info {  text-align: center;  }
+         button:active { background-color: #b1cb66 ;  }
