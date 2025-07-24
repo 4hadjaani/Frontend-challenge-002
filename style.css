@@ -17,7 +17,7 @@ img {
         .objets {text-align: center;
                    display: flex-block;}
         
-        body{ 
+        body{  background-color: #1f1f1f ; 
                  justify-content: center;
                
               align-item: center;}
